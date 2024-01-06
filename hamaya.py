@@ -5,7 +5,7 @@ import telebot
 from datetime import date ,timedelta ,time
 import time
 ssss = 5089553588
-app = teleapp.Teleapp("5688348631:AAH39NZzm_ntJHzNBqBc13ZJNPOIFgGba1w")
+app = telebot.TeleBot("6283181044:AAF_wiOFkG6PrAkX1DUB94rSI1Yk2Wj9eg8")
 p3 = types.InlineKeyboardMarkup()
 p5 = types.InlineKeyboardButton(text = "[!] 𓏺𝙎𝙊𝙐𝙍𝘾𝞝 𝗔𝗹𝗺𝗼𝗿𝘁𝗮𝗴𝗲𝗹",url="t.me/AlmortagelTech")
 A1 = types.InlineKeyboardButton(text = "اوامر الحماية .",callback_data="A1")
