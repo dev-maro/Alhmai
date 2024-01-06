@@ -1,3 +1,4 @@
+os
 telebot
 pyrogram
 requests
