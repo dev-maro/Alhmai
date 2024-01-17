@@ -666,9 +666,8 @@ u = 70
 a = 1
 uu = u - a 
 print(f"f > m  = {uu}")
-
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
-
     app.polling()
+
